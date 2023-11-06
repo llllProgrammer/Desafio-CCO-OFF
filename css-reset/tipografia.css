@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+h1, h2, h3 h4, h5, h6{
+    font-family: 'Poppins', sans-serif;
+}
+
+.ff-poppins{
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ff-poppins-small{
+    font-size: .9rem;
+    opacity: 0.6;
+}
+
+/* HOVER's */
+
+.hover-out:hover{
+    transition: .3s;
+    font-size: .9rem;
+}
